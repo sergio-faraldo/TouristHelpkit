@@ -1,0 +1,1130 @@
+[
+{
+  "category": "Basic Verbs",
+  "color": "FAE7EB",
+  "data": [
+    {
+      "icons": "🚶",
+      "phrase": "To go",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🚶",
+      "phrase": "To come",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🍽️",
+      "phrase": "To eat",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🥤",
+      "phrase": "To drink",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🛒",
+      "phrase": "To buy",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "💳",
+      "phrase": "To pay",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "📅",
+      "phrase": "To reserve/to book",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "❗",
+      "phrase": "To need",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "💭",
+      "phrase": "To want",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "⏳",
+      "phrase": "To wait",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "📤",
+      "phrase": "To leave",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "📥",
+      "phrase": "To arrive",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🛌",
+      "phrase": "To sleep",
+      "written_tr": "",
+      "phonetic_tr": ""
+    }
+  ]
+},
+{
+  "category": "Basics",
+  "color": "E0D4E7",
+  "data": [
+    {
+      "icons": "👋▶️",
+      "phrase": "Hello",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "👋⏹️",
+      "phrase": "Goodbye",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🙏",
+      "phrase": "Please",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🙏🙌",
+      "phrase": "Thank you",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "😅🙏",
+      "phrase": "Excuse me",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "😔🙏",
+      "phrase": "Sorry",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "👍👎",
+      "phrase": "Yes / No",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "👍👎",
+      "phrase": "Good / Bad",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "👉",
+      "phrase": "This / That",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🤷‍♂️🧠",
+      "phrase": "I don’t understand",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🗣️🇬🇧",
+      "phrase": "Do you speak English?",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "❓",
+      "phrase": "What",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "📍",
+      "phrase": "Where",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "⏰",
+      "phrase": "When",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🙋‍♂️",
+      "phrase": "Who",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "❓🤔",
+      "phrase": "Why",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "❓🤷‍♀️",
+      "phrase": "How",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "❓👉",
+      "phrase": "Which",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "✍️📝",
+      "phrase": "Can you write it down",
+      "written_tr": "",
+      "phonetic_tr": ""
+    }
+  ]
+},
+{
+  "category": "Shopping",
+  "color": "DBEEF7",
+  "data": [
+    {
+      "icons": "💳❓",
+      "phrase": "Do you take cards?",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "💵",
+      "phrase": "Cash only",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🛍️",
+      "phrase": "Grocery bag",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "💰🔄",
+      "phrase": "Change",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "💲❓",
+      "phrase": "How much?",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🔝📈",
+      "phrase": "Too much/many",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🔻📉",
+      "phrase": "Too little/few",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "💸🔴",
+      "phrase": "Too expensive",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "💰✅",
+      "phrase": "Cheap/Affordable",
+      "written_tr": "",
+      "phonetic_tr": ""
+    }
+  ]
+},
+{
+  "category": "At a Restaurant",
+  "color": "BDD2E4",
+  "data": [
+    {
+      "icons": "📜🍽️",
+      "phrase": "Menu",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "💧🥤",
+      "phrase": "Water",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🍷",
+      "phrase": "Wine",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🍺",
+      "phrase": "Beer",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🍳🥞",
+      "phrase": "Breakfast",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🥪🍴",
+      "phrase": "Lunch",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🍽️🌙",
+      "phrase": "Dinner",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🍤🍽️",
+      "phrase": "Appetizer",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🥩🍽️",
+      "phrase": "Main Course",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🍰🍽️",
+      "phrase": "Dessert",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🍽️🪑",
+      "phrase": "Table",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🍴",
+      "phrase": "Fork",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🔪",
+      "phrase": "Knife",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🥄",
+      "phrase": "Spoon",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🍽️",
+      "phrase": "Plate",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🥣",
+      "phrase": "Bowl",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🍷🥃",
+      "phrase": "Glass",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "💵🧾",
+      "phrase": "Bill – To ask for payment",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🌶️🔥",
+      "phrase": "Spicy",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🌶️🔥",
+      "phrase": "Too spicy",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🧂",
+      "phrase": "Salty",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🧂",
+      "phrase": "Needs salt",
+      "written_tr": "",
+      "phonetic_tr": ""
+    }
+  ]
+},
+{
+  "category": "At a Grocery Store or Market",
+  "color": "EECEDA",
+  "data": [
+    {
+      "icons": "🛍️",
+      "phrase": "Grocery bag",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🥦🍅",
+      "phrase": "Vegetables",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🍎🍇",
+      "phrase": "Fruit",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🍖🥩",
+      "phrase": "Meat",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🐔",
+      "phrase": "Poultry",
+      "written_tr": "鶏肉",
+      "phonetic_tr": "Toriniku"
+    },
+    {
+      "icons": "🐖",
+      "phrase": "Pork",
+      "written_tr": "豚肉",
+      "phonetic_tr": "Butaniku"
+    },
+    {
+      "icons": "🐄",
+      "phrase": "Beef",
+      "written_tr": "牛肉",
+      "phonetic_tr": "Gyūniku"
+    },
+    {
+      "icons": "🦆",
+      "phrase": "Duck",
+      "written_tr": "鴨肉",
+      "phonetic_tr": "Kamoniku"
+    },
+    {
+      "icons": "🐙",
+      "phrase": "Octopus",
+      "written_tr": "タコ",
+      "phonetic_tr": "Tako"
+    },
+    {
+      "icons": "🦑",
+      "phrase": "Squid",
+      "written_tr": "イカ",
+      "phonetic_tr": "Ika"
+    },
+    {
+      "icons": "🐍",
+      "phrase": "Eel",
+      "written_tr": "うなぎ",
+      "phonetic_tr": "Unagi"
+    },
+    {
+      "icons": "🐟",
+      "phrase": "Fish",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🧼🧴",
+      "phrase": "Cleaning products",
+      "written_tr": "",
+      "phonetic_tr": ""
+    }
+  ]
+},
+{
+  "category": "At a Hotel",
+  "color": "CCDCEB",
+  "data": [
+    {
+      "icons": "📅🏨",
+      "phrase": "Reservation/Booking",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "💵🎫",
+      "phrase": "Tourist fees",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "💻💳",
+      "phrase": "Paid online",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🛏️",
+      "phrase": "Room",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🛏️1️⃣",
+      "phrase": "Single room",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🛏️2️⃣",
+      "phrase": "Double room",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🛏️🛏️",
+      "phrase": "Twin room",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🛎️",
+      "phrase": "Check-in",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🛎️🚪",
+      "phrase": "Check-out",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🔑💳",
+      "phrase": "Key/Key card",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🚻",
+      "phrase": "Bathroom",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🚿",
+      "phrase": "Shower",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🛀",
+      "phrase": "Towel",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🛗",
+      "phrase": "Elevator",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🪜",
+      "phrase": "Stairs",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "📶💻",
+      "phrase": "Wi-Fi/Internet",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🛎️🏨",
+      "phrase": "Reception",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🛎️🛏️",
+      "phrase": "Room service",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🛏️🛋️",
+      "phrase": "Pillow",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🛏️🧥",
+      "phrase": "Blanket",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "❓➕",
+      "phrase": "Can I have extra...?",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🍽️☕",
+      "phrase": "Breakfast included?",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🧳",
+      "phrase": "Luggage",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🧳🎒",
+      "phrase": "Suitcase",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "👜",
+      "phrase": "Bag",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🎒",
+      "phrase": "Backpack",
+      "written_tr": "",
+      "phonetic_tr": ""
+    }
+  ]
+},
+{
+  "category": "At Train or Bus Stations",
+  "color": "FFDAB9",
+  "data": [
+    {
+      "icons": "🎟️🚌🚆",
+      "phrase": "Ticket (bus or train)",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🛤️",
+      "phrase": "Platform / Track",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🏃‍♂️🕒",
+      "phrase": "Departure",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🏁🕒",
+      "phrase": "Arrival",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "📅🕒",
+      "phrase": "Schedule",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "➡️🎟️",
+      "phrase": "One-way ticket",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🔄🎟️",
+      "phrase": "Both-way ticket",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🔙🎟️",
+      "phrase": "Return ticket",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🚌",
+      "phrase": "Bus",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🚆",
+      "phrase": "Train",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "💺",
+      "phrase": "Seat",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🚃",
+      "phrase": "Train car",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "⏳❌",
+      "phrase": "Delay",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🕒✅",
+      "phrase": "On time",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🚫",
+      "phrase": "Cancelled",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "⏱️❓",
+      "phrase": "How long does it take?",
+      "written_tr": "",
+      "phonetic_tr": ""
+    }
+  ]
+},
+{
+  "category": "At the Airport",
+  "color": "E1F6F2",
+  "data": [
+    {
+      "icons": "✈️",
+      "phrase": "Flight",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🎟️✈️",
+      "phrase": "Boarding pass",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🚪✈️",
+      "phrase": "Gate",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🛂🔍",
+      "phrase": "Security check",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "👜✈️",
+      "phrase": "Carry-on luggage",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🧳✈️",
+      "phrase": "Checked luggage",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🛂",
+      "phrase": "Passport",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🛂✉️",
+      "phrase": "Visa",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🛃",
+      "phrase": "Customs",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🛂🏢",
+      "phrase": "Immigration",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🧳🔄",
+      "phrase": "Baggage claim",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🏢✈️",
+      "phrase": "Terminal",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🛍️✈️",
+      "phrase": "Duty-free",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "✈️🔢",
+      "phrase": "Flight number",
+      "written_tr": "",
+      "phonetic_tr": ""
+    }
+  ]
+},
+{
+  "category": "At an Information Desk",
+  "color": "FEC5BB",
+  "data": [
+    {
+      "icons": "🗺️",
+      "phrase": "Map",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "📖",
+      "phrase": "Brochure",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🎟️🗺️",
+      "phrase": "Guided tour",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "⏰",
+      "phrase": "Opening hours",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🎫",
+      "phrase": "Ticket",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🏛️",
+      "phrase": "Tourist attraction",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🏛️",
+      "phrase": "Museum",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🏙️",
+      "phrase": "City center",
+      "written_tr": "",
+      "phonetic_tr": ""
+    }
+  ]
+},
+{
+  "category": "Emergencies",
+  "color": "F1DEEE",
+  "data": [
+    {
+      "icons": "🚨",
+      "phrase": "Emergency",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🏥",
+      "phrase": "Hospital",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🚑",
+      "phrase": "Medic",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🚓",
+      "phrase": "Police",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🚒",
+      "phrase": "Ambulance",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🆘",
+      "phrase": "Help! - Call for help",
+      "written_tr": "",
+      "phonetic_tr": ""
+    }
+  ]
+},
+{
+  "category": "Directions",
+  "color": "D3DCE8",
+  "data": [
+    {
+      "icons": "❓",
+      "phrase": "Where is ...?",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🔄",
+      "phrase": "Turn",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "⬅️",
+      "phrase": "Left",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "➡️",
+      "phrase": "Right",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "⬆️",
+      "phrase": "Straight ahead",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🔍",
+      "phrase": "Near",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🌌",
+      "phrase": "Far",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "➡️⬅️",
+      "phrase": "Next to/Beside",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "👁️",
+      "phrase": "In front of",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🔜",
+      "phrase": "You'll see it ahead",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🚶‍♂️",
+      "phrase": "Cross the street",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🔄",
+      "phrase": "Follow the signs",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "1️⃣2️⃣3️⃣",
+      "phrase": "Take the first/second/third (left/right)",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "⬆️",
+      "phrase": "Above",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "⬇️",
+      "phrase": "Below",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "⬆️",
+      "phrase": "Up",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "⬇️",
+      "phrase": "Down",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🚪",
+      "phrase": "Exit",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🚪",
+      "phrase": "Entrance",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🔀",
+      "phrase": "Intersection/Crossroad",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🔳",
+      "phrase": "Corner",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🚦",
+      "phrase": "Traffic light",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🏙️",
+      "phrase": "Street",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🛣️",
+      "phrase": "Road",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🔄",
+      "phrase": "Roundabout",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🏛️",
+      "phrase": "Plaza",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🧭",
+      "phrase": "North",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🧭",
+      "phrase": "South",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🧭",
+      "phrase": "East",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "🧭",
+      "phrase": "West",
+      "written_tr": "",
+      "phonetic_tr": ""
+    },
+    {
+      "icons": "➡️",
+      "phrase": "Go past...",
+      "written_tr": "",
+      "phonetic_tr": ""
+    }
+  ]
+}
+]

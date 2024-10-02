@@ -1,0 +1,1123 @@
+[
+  {
+    "category": "Basics",
+    "color": "E0D4E7",
+    "data": [
+      {
+        "icons": "👋▶️",
+        "phrase": "Hello",
+        "written_tr": "こんにちは",
+        "phonetic_tr": "Kon'nichiwa"
+      },
+      {
+        "icons": "👋⏹️",
+        "phrase": "Goodbye",
+        "written_tr": "まったね",
+        "phonetic_tr": "mattane"
+      },
+      {
+        "icons": "🙏",
+        "phrase": "Please",
+        "written_tr": "お願いします",
+        "phonetic_tr": "Onegaishimasu"
+      },
+      {
+        "icons": "🙏",
+        "phrase": "Please give me",
+        "written_tr": "ください",
+        "phonetic_tr": "kudasai"
+      },
+      {
+        "icons": "🙏🙌",
+        "phrase": "Thank you",
+        "written_tr": "ありがとうございます",
+        "phonetic_tr": "Arigatō gozaimasu"
+      },
+      {
+        "icons": "😅🙏",
+        "phrase": "Excuse me",
+        "written_tr": "すみません",
+        "phonetic_tr": "Sumimasen"
+      },
+      {
+        "icons": "😔🙏",
+        "phrase": "Sorry",
+        "written_tr": "ごめんなさい",
+        "phonetic_tr": "Gomen nasai"
+      },
+      {
+        "icons": "👍👎",
+        "phrase": "Yes / No",
+        "written_tr": "はい / いいえ",
+        "phonetic_tr": "Hai / Iie"
+      },
+      {
+        "icons": "👍👎",
+        "phrase": "Good / Bad",
+        "written_tr": "良い / 悪い",
+        "phonetic_tr": "Yoi / Warui"
+      },
+      {
+        "icons": "🚫🇯🇵",
+        "phrase": "I don't understand japanese",
+        "written_tr": "にほんご が わかりません",
+        "phonetic_tr": "Nihongo ga wakarimasen"
+      },
+      {
+        "icons": "🤷‍♂️🧠",
+        "phrase": "I don’t understand",
+        "written_tr": "わかりません",
+        "phonetic_tr": "Wakarimasen"
+      },
+      {
+        "icons": "🗣️🇬🇧",
+        "phrase": "Do you speak English?",
+        "written_tr": "英語を話せますか？",
+        "phonetic_tr": "Eigo o hanasemasu ka?"
+      },
+      {
+        "icons": "❓",
+        "phrase": "What",
+        "written_tr": "何",
+        "phonetic_tr": "Nani"
+      },
+      {
+        "icons": "📍",
+        "phrase": "Where",
+        "written_tr": "どこ",
+        "phonetic_tr": "Doko"
+      },
+      {
+        "icons": "⏰",
+        "phrase": "When",
+        "written_tr": "いつ",
+        "phonetic_tr": "Itsu"
+      },
+      {
+        "icons": "🙋‍♂️",
+        "phrase": "Who",
+        "written_tr": "誰",
+        "phonetic_tr": "Dare"
+      },
+      {
+        "icons": "❓🤔",
+        "phrase": "Why",
+        "written_tr": "なぜ",
+        "phonetic_tr": "Naze"
+      },
+      {
+        "icons": "❓🤷‍♀️",
+        "phrase": "How",
+        "written_tr": "どうやって",
+        "phonetic_tr": "Dō yatte"
+      },
+      {
+        "icons": "❓👉",
+        "phrase": "Which",
+        "written_tr": "どれ",
+        "phonetic_tr": "Dore"
+      },
+      {
+        "icons": "✍️📝",
+        "phrase": "Can you write it down",
+        "written_tr": "それを書いてもらえますか？",
+        "phonetic_tr": "sore wo kaite moraemasuka?"
+      }
+    ]
+  },
+  {
+    "category": "Basic Verbs",
+    "color": "FAE7EB",
+    "data": [
+      {
+        "icons": "🚶",
+        "phrase": "To go",
+        "written_tr": "行きます",
+        "phonetic_tr": "Ikimasu"
+      },
+      {
+        "icons": "🚶",
+        "phrase": "To come",
+        "written_tr": "来ます",
+        "phonetic_tr": "Kimasu"
+      },
+      {
+        "icons": "🍽️",
+        "phrase": "To eat",
+        "written_tr": "食べます",
+        "phonetic_tr": "Tabemasu"
+      },
+      {
+        "icons": "🥤",
+        "phrase": "To drink",
+        "written_tr": "飲みます",
+        "phonetic_tr": "Nomimasu"
+      },
+      {
+        "icons": "🛒",
+        "phrase": "To buy",
+        "written_tr": "買います",
+        "phonetic_tr": "Kaimasu"
+      },
+      {
+        "icons": "💳",
+        "phrase": "To pay",
+        "written_tr": "払います",
+        "phonetic_tr": "Haraimasu"
+      },
+      {
+        "icons": "📅",
+        "phrase": "To reserve/to book",
+        "written_tr": "予約します",
+        "phonetic_tr": "Yoyaku shimasu"
+      },
+      {
+        "icons": "❗",
+        "phrase": "To need",
+        "written_tr": "必要とします",
+        "phonetic_tr": "Hitsuyō to shimasu"
+      },
+      {
+        "icons": "💭",
+        "phrase": "To want",
+        "written_tr": "欲しいです",
+        "phonetic_tr": "Hoshii desu"
+      },
+      {
+        "icons": "⏳",
+        "phrase": "To wait",
+        "written_tr": "待ちます",
+        "phonetic_tr": "Machimasu"
+      },
+      {
+        "icons": "📤",
+        "phrase": "To leave",
+        "written_tr": "出ます",
+        "phonetic_tr": "Demasu"
+      },
+      {
+        "icons": "📥",
+        "phrase": "To arrive",
+        "written_tr": "着きます",
+        "phonetic_tr": "Tsukimasu"
+      },
+      {
+        "icons": "🛌",
+        "phrase": "To sleep",
+        "written_tr": "寝ます",
+        "phonetic_tr": "Nemasu"
+      }
+    ]
+  },
+  {
+    "category": "Shopping",
+    "color": "DBEEF7",
+    "data": [
+      {
+        "icons": "💳❓",
+        "phrase": "Do you take cards?",
+        "written_tr": "カードは使えますか？",
+        "phonetic_tr": "Kādo wa tsukaemasu ka?"
+      },
+      {
+        "icons": "💵",
+        "phrase": "Cash only",
+        "written_tr": "現金のみ",
+        "phonetic_tr": "Genkin nomi"
+      },
+      {
+        "icons": "🛍️",
+        "phrase": "Grocery bag",
+        "written_tr": "買い物袋",
+        "phonetic_tr": "Kaimono bukuro"
+      },
+      {
+        "icons": "💰🔄",
+        "phrase": "Change",
+        "written_tr": "お釣り",
+        "phonetic_tr": "Otsuri"
+      },
+      {
+        "icons": "💲❓",
+        "phrase": "How much?",
+        "written_tr": "いくらですか？",
+        "phonetic_tr": "Ikura desu ka?"
+      },
+      {
+        "icons": "🔝📈",
+        "phrase": "Too much/many",
+        "written_tr": "多すぎます",
+        "phonetic_tr": "Ōsugimasu"
+      },
+      {
+        "icons": "🔻📉",
+        "phrase": "Too little/few",
+        "written_tr": "少なすぎます",
+        "phonetic_tr": "Sukunasugimasu"
+      },
+      {
+        "icons": "💸🔴",
+        "phrase": "Too expensive",
+        "written_tr": "高すぎます",
+        "phonetic_tr": "Takasugimasu"
+      },
+      {
+        "icons": "💰✅",
+        "phrase": "Cheap/Affordable",
+        "written_tr": "安い",
+        "phonetic_tr": "Yasui"
+      }
+    ]
+  },
+  {
+    "category": "At a Restaurant",
+    "color": "BDD2E4",
+    "data": [
+      {
+        "icons": "📜🍽️",
+        "phrase": "Menu",
+        "written_tr": "メニュー",
+        "phonetic_tr": "Menyū"
+      },
+      {
+        "icons": "💧🥤",
+        "phrase": "Water",
+        "written_tr": "水",
+        "phonetic_tr": "Mizu"
+      },
+      {
+        "icons": "🍷",
+        "phrase": "Wine",
+        "written_tr": "ワイン",
+        "phonetic_tr": "Wain"
+      },
+      {
+        "icons": "🍺",
+        "phrase": "Beer",
+        "written_tr": "ビール",
+        "phonetic_tr": "Bīru"
+      },
+      {
+        "icons": "🍳🥞",
+        "phrase": "Breakfast",
+        "written_tr": "朝食",
+        "phonetic_tr": "Chōshoku"
+      },
+      {
+        "icons": "🥪🍴",
+        "phrase": "Lunch",
+        "written_tr": "昼食",
+        "phonetic_tr": "Chūshoku"
+      },
+      {
+        "icons": "🍽️🌙",
+        "phrase": "Dinner",
+        "written_tr": "夕食",
+        "phonetic_tr": "Yūshoku"
+      },
+      {
+        "icons": "🍤🍽️",
+        "phrase": "Appetizer",
+        "written_tr": "前菜",
+        "phonetic_tr": "Zensai"
+      },
+      {
+        "icons": "🥩🍽️",
+        "phrase": "Main Course",
+        "written_tr": "メインコース",
+        "phonetic_tr": "Mein kōsu"
+      },
+      {
+        "icons": "🍰🍽️",
+        "phrase": "Dessert",
+        "written_tr": "デザート",
+        "phonetic_tr": "Dezāto"
+      },
+      {
+        "icons": "🍽️🪑",
+        "phrase": "Table",
+        "written_tr": "テーブル",
+        "phonetic_tr": "Tēburu"
+      },
+      {
+        "icons": "🍴",
+        "phrase": "Fork",
+        "written_tr": "フォーク",
+        "phonetic_tr": "Fōku"
+      },
+      {
+        "icons": "🔪",
+        "phrase": "Knife",
+        "written_tr": "ナイフ",
+        "phonetic_tr": "Naifu"
+      },
+      {
+        "icons": "🥄",
+        "phrase": "Spoon",
+        "written_tr": "スプーン",
+        "phonetic_tr": "Supūn"
+      },
+      {
+        "icons": "🍽️",
+        "phrase": "Plate",
+        "written_tr": "皿",
+        "phonetic_tr": "Sara"
+      },
+      {
+        "icons": "🥣",
+        "phrase": "Bowl",
+        "written_tr": "ボウル",
+        "phonetic_tr": "Bōru"
+      },
+      {
+        "icons": "🍷🥃",
+        "phrase": "Glass",
+        "written_tr": "グラス",
+        "phonetic_tr": "Gurasu"
+      },
+      {
+        "icons": "💵🧾",
+        "phrase": "Bill – To ask for payment",
+        "written_tr": "お会計お願いします",
+        "phonetic_tr": "Okaikei onegaishimasu"
+      },
+      {
+        "icons": "🌶️🔥",
+        "phrase": "Spicy",
+        "written_tr": "辛い",
+        "phonetic_tr": "Karai"
+      },
+      {
+        "icons": "🧂",
+        "phrase": "Salty",
+        "written_tr": "塩辛い",
+        "phonetic_tr": "Shiokarai"
+      }
+    ]
+  },
+  {
+    "category": "At a Grocery Store or Market",
+    "color": "EECEDA",
+    "data": [
+      {
+        "icons": "🛍️",
+        "phrase": "Grocery bag",
+        "written_tr": "買い物袋",
+        "phonetic_tr": "Kaimono bukuro"
+      },
+      {
+        "icons": "🥦🍅",
+        "phrase": "Vegetables",
+        "written_tr": "野菜",
+        "phonetic_tr": "Yasai"
+      },
+      {
+        "icons": "🍎🍇",
+        "phrase": "Fruit",
+        "written_tr": "果物",
+        "phonetic_tr": "Kudamono"
+      },
+      {
+        "icons": "🍖🥩",
+        "phrase": "Meat",
+        "written_tr": "肉",
+        "phonetic_tr": "Niku"
+      },
+      {
+        "icons": "🐔",
+        "phrase": "Poultry",
+        "written_tr": "鶏肉",
+        "phonetic_tr": "Toriniku"
+      },
+      {
+        "icons": "🐖",
+        "phrase": "Pork",
+        "written_tr": "豚肉",
+        "phonetic_tr": "Butaniku"
+      },
+      {
+        "icons": "🐄",
+        "phrase": "Beef",
+        "written_tr": "牛肉",
+        "phonetic_tr": "Gyūniku"
+      },
+      {
+        "icons": "🦆",
+        "phrase": "Duck",
+        "written_tr": "鴨肉",
+        "phonetic_tr": "Kamoniku"
+      },
+      {
+        "icons": "🐙",
+        "phrase": "Octopus",
+        "written_tr": "タコ",
+        "phonetic_tr": "Tako"
+      },
+      {
+        "icons": "🦑",
+        "phrase": "Squid",
+        "written_tr": "イカ",
+        "phonetic_tr": "Ika"
+      },
+      {
+        "icons": "🐍",
+        "phrase": "Eel",
+        "written_tr": "うなぎ",
+        "phonetic_tr": "Unagi"
+      },
+      {
+        "icons": "🐟",
+        "phrase": "Fish",
+        "written_tr": "魚",
+        "phonetic_tr": "Sakana"
+      },
+      {
+        "icons": "🧼🧴",
+        "phrase": "Cleaning products",
+        "written_tr": "掃除用品",
+        "phonetic_tr": "Sōji yōhin"
+      }
+    ]
+  },{
+  "category": "At a Hotel",
+  "color": "CCDCEB",
+  "data": [
+    {
+      "icons": "📅🏨",
+      "phrase": "Reservation/Booking",
+      "written_tr": "予約",
+      "phonetic_tr": "Yoyaku"
+    },
+    {
+      "icons": "💵🎫",
+      "phrase": "Tourist fees",
+      "written_tr": "観光料金",
+      "phonetic_tr": "Kankō ryōkin"
+    },
+    {
+      "icons": "💻💳",
+      "phrase": "Paid online",
+      "written_tr": "オンラインで支払い済み",
+      "phonetic_tr": "Onrain de shiharai-zumi"
+    },
+    {
+      "icons": "🛏️",
+      "phrase": "Room",
+      "written_tr": "部屋",
+      "phonetic_tr": "Heya"
+    },
+    {
+      "icons": "🛏️1️⃣",
+      "phrase": "Single room",
+      "written_tr": "シングルルーム",
+      "phonetic_tr": "Shinguru rūmu"
+    },
+    {
+      "icons": "🛏️2️⃣",
+      "phrase": "Double room",
+      "written_tr": "ダブルルーム",
+      "phonetic_tr": "Daburu rūmu"
+    },
+    {
+      "icons": "🛏️🛏️",
+      "phrase": "Twin room",
+      "written_tr": "ツインルーム",
+      "phonetic_tr": "Tsuin rūmu"
+    },
+    {
+      "icons": "🛎️",
+      "phrase": "Check-in",
+      "written_tr": "チェックイン",
+      "phonetic_tr": "Chekku-in"
+    },
+    {
+      "icons": "🛎️🚪",
+      "phrase": "Check-out",
+      "written_tr": "チェックアウト",
+      "phonetic_tr": "Chekku-auto"
+    },
+    {
+      "icons": "🔑💳",
+      "phrase": "Key/Key card",
+      "written_tr": "鍵/カードキー",
+      "phonetic_tr": "Kagi/Kādo kī"
+    },
+    {
+      "icons": "🚻",
+      "phrase": "Bathroom",
+      "written_tr": "バスルーム",
+      "phonetic_tr": "Basurūmu"
+    },
+    {
+      "icons": "🚿",
+      "phrase": "Shower",
+      "written_tr": "シャワー",
+      "phonetic_tr": "Shawā"
+    },
+    {
+      "icons": "🧴🧻",
+      "phrase": "Towels",
+      "written_tr": "タオル",
+      "phonetic_tr": "Tauru"
+    },
+    {
+      "icons": "🛗",
+      "phrase": "Elevator",
+      "written_tr": "エレベーター",
+      "phonetic_tr": "Erebētā"
+    },
+    {
+      "icons": "🪜",
+      "phrase": "Stairs",
+      "written_tr": "階段",
+      "phonetic_tr": "Kaidan"
+    },
+    {
+      "icons": "📶💻",
+      "phrase": "Wi-Fi/Internet",
+      "written_tr": "Wi-Fi/インターネット",
+      "phonetic_tr": "Wi-Fi/Intānetto"
+    },
+    {
+      "icons": "🛎️🏨",
+      "phrase": "Reception",
+      "written_tr": "フロント",
+      "phonetic_tr": "Furonto"
+    },
+    {
+      "icons": "🛎️🛏️",
+      "phrase": "Room service",
+      "written_tr": "ルームサービス",
+      "phonetic_tr": "Rūmu sābisu"
+    },
+    {
+      "icons": "🧴🧻",
+      "phrase": "Towel",
+      "written_tr": "タオル",
+      "phonetic_tr": "Tauru"
+    },
+    {
+      "icons": "🛏️🛋️",
+      "phrase": "Pillow",
+      "written_tr": "枕",
+      "phonetic_tr": "Makura"
+    },
+    {
+      "icons": "🛏️🧥",
+      "phrase": "Blanket",
+      "written_tr": "毛布",
+      "phonetic_tr": "Mōfu"
+    },
+    {
+      "icons": "🍽️☕",
+      "phrase": "Breakfast included?",
+      "written_tr": "朝食は含まれていますか？",
+      "phonetic_tr": "Chōshoku wa fukumareteimasu ka?"
+    },
+    {
+      "icons": "🧳",
+      "phrase": "Luggage",
+      "written_tr": "荷物",
+      "phonetic_tr": "Nimotsu"
+    },
+    {
+      "icons": "🧳🎒",
+      "phrase": "Suitcase",
+      "written_tr": "スーツケース",
+      "phonetic_tr": "Sūtsukēsu"
+    },
+    {
+      "icons": "👜",
+      "phrase": "Bag",
+      "written_tr": "バッグ",
+      "phonetic_tr": "Baggu"
+    },
+    {
+      "icons": "🎒",
+      "phrase": "Backpack",
+      "written_tr": "リュックサック",
+      "phonetic_tr": "Ryukkusakku"
+    }
+  ]
+},
+  {
+    "category": "At Train or Bus Stations",
+    "color": "FFDAB9",
+    "data": [
+      {
+        "icons": "🎟️🚌🚆",
+        "phrase": "Ticket (bus or train)",
+        "written_tr": "切符",
+        "phonetic_tr": "Kippu"
+      },
+      {
+        "icons": "🛤️",
+        "phrase": "Platform / Track",
+        "written_tr": "ホーム/線路",
+        "phonetic_tr": "Hōmu/Senro"
+      },
+      {
+        "icons": "🏃‍♂️🕒",
+        "phrase": "Departure",
+        "written_tr": "出発",
+        "phonetic_tr": "Shuppatsu"
+      },
+      {
+        "icons": "🏁🕒",
+        "phrase": "Arrival",
+        "written_tr": "到着",
+        "phonetic_tr": "Tōchaku"
+      },
+      {
+        "icons": "📅🕒",
+        "phrase": "Schedule",
+        "written_tr": "時間表",
+        "phonetic_tr": "Jikanhyō"
+      },
+      {
+        "icons": "➡️🎟️",
+        "phrase": "One-way ticket",
+        "written_tr": "片道切符",
+        "phonetic_tr": "Katamichi kippu"
+      },
+      {
+        "icons": "🔄🎟️",
+        "phrase": "Both-way ticket",
+        "written_tr": "往復切符",
+        "phonetic_tr": "Ōfuku kippu"
+      },
+      {
+        "icons": "🔙🎟️",
+        "phrase": "Return ticket",
+        "written_tr": "復路切符",
+        "phonetic_tr": "Fukuro kippu"
+      },
+      {
+        "icons": "🚌",
+        "phrase": "Bus",
+        "written_tr": "バス",
+        "phonetic_tr": "Basu"
+      },
+      {
+        "icons": "🚆",
+        "phrase": "Train",
+        "written_tr": "電車",
+        "phonetic_tr": "Densha"
+      },
+      {
+        "icons": "💺",
+        "phrase": "Seat",
+        "written_tr": "席",
+        "phonetic_tr": "Seki"
+      },
+      {
+        "icons": "🚃",
+        "phrase": "Train car",
+        "written_tr": "車両",
+        "phonetic_tr": "Sharyō"
+      },
+      {
+        "icons": "⏳❌",
+        "phrase": "Delay",
+        "written_tr": "遅れ",
+        "phonetic_tr": "Okure"
+      },
+      {
+        "icons": "🕒✅",
+        "phrase": "On time",
+        "written_tr": "定刻通り",
+        "phonetic_tr": "Teikoku dōri"
+      },
+      {
+        "icons": "🚫",
+        "phrase": "Cancelled",
+        "written_tr": "キャンセルされました",
+        "phonetic_tr": "Kyanseru saremashita"
+      },
+      {
+        "icons": "⏱️❓",
+        "phrase": "How long does it take?",
+        "written_tr": "どのくらいかかりますか？",
+        "phonetic_tr": "Dono kurai kakarimasu ka?"
+      }
+    ]
+  },
+  {
+    "category": "At the Airport",
+    "color": "E1F6F2",
+    "data": [
+      {
+        "icons": "✈️",
+        "phrase": "Flight",
+        "written_tr": "フライト",
+        "phonetic_tr": "furaito"
+      },
+      {
+        "icons": "🎟️✈️",
+        "phrase": "Boarding pass",
+        "written_tr": "搭乗券",
+        "phonetic_tr": "tōjōken"
+      },
+      {
+        "icons": "🚪✈️",
+        "phrase": "Gate",
+        "written_tr": "ゲート",
+        "phonetic_tr": "gēto"
+      },
+      {
+        "icons": "🛂🔍",
+        "phrase": "Security check",
+        "written_tr": "保安検査",
+        "phonetic_tr": "hoan kensa"
+      },
+      {
+        "icons": "👜✈️",
+        "phrase": "Carry-on luggage",
+        "written_tr": "機内持ち込み手荷物",
+        "phonetic_tr": "kinai mochikomi tenimotsu"
+      },
+      {
+        "icons": "🧳✈️",
+        "phrase": "Checked luggage",
+        "written_tr": "預け入れ手荷物",
+        "phonetic_tr": "azukeire tenimotsu"
+      },
+      {
+        "icons": "🛂",
+        "phrase": "Passport",
+        "written_tr": "パスポート",
+        "phonetic_tr": "pasupōto"
+      },
+      {
+        "icons": "🛂✉️",
+        "phrase": "Visa",
+        "written_tr": "ビザ",
+        "phonetic_tr": "biza"
+      },
+      {
+        "icons": "🛃",
+        "phrase": "Customs",
+        "written_tr": "税関",
+        "phonetic_tr": "zeikan"
+      },
+      {
+        "icons": "🛂🏢",
+        "phrase": "Immigration",
+        "written_tr": "入国審査",
+        "phonetic_tr": "nyūkoku shinsa"
+      },
+      {
+        "icons": "🧳🔄",
+        "phrase": "Baggage claim",
+        "written_tr": "手荷物受取所",
+        "phonetic_tr": "tenimotsu uketorijo"
+      },
+      {
+        "icons": "🏢✈️",
+        "phrase": "Terminal",
+        "written_tr": "ターミナル",
+        "phonetic_tr": "tāminaru"
+      },
+      {
+        "icons": "🛍️✈️",
+        "phrase": "Duty-free",
+        "written_tr": "免税店",
+        "phonetic_tr": "menzeiten"
+      },
+      {
+        "icons": "✈️🔢",
+        "phrase": "Flight number",
+        "written_tr": "便名",
+        "phonetic_tr": "binmei"
+      }
+    ]
+  },
+  {
+    "category": "At an Information Desk",
+    "color": "FEC5BB",
+    "data": [
+      {
+        "icons": "🗺️",
+        "phrase": "Map",
+        "written_tr": "地図",
+        "phonetic_tr": "chizu"
+      },
+      {
+        "icons": "📖",
+        "phrase": "Brochure",
+        "written_tr": "パンフレット",
+        "phonetic_tr": "panfuretto"
+      },
+      {
+        "icons": "🎟️🗺️",
+        "phrase": "Guided tour",
+        "written_tr": "ガイドツアー",
+        "phonetic_tr": "gaido tsuā"
+      },
+      {
+        "icons": "⏰",
+        "phrase": "Opening hours",
+        "written_tr": "営業時間",
+        "phonetic_tr": "eigyou jikan"
+      },
+      {
+        "icons": "🎫",
+        "phrase": "Ticket",
+        "written_tr": "チケット",
+        "phonetic_tr": "chiketto"
+      },
+      {
+        "icons": "🏛️",
+        "phrase": "Tourist attraction",
+        "written_tr": "観光名所",
+        "phonetic_tr": "kankō meisho"
+      },
+      {
+        "icons": "🏛️",
+        "phrase": "Museum",
+        "written_tr": "博物館",
+        "phonetic_tr": "hakubutsukan"
+      },
+      {
+        "icons": "🏙️",
+        "phrase": "City center",
+        "written_tr": "市中心部",
+        "phonetic_tr": "shi chūshinbu"
+      }
+    ]
+  },
+  {
+    "category": "Emergencies",
+    "color": "F1DEEE",
+    "data": [
+      {
+        "icons": "🚨",
+        "phrase": "Emergency",
+        "written_tr": "緊急",
+        "phonetic_tr": "kinkyū"
+      },
+      {
+        "icons": "🏥",
+        "phrase": "Hospital",
+        "written_tr": "病院",
+        "phonetic_tr": "byōin"
+      },
+      {
+        "icons": "🚑",
+        "phrase": "Medic",
+        "written_tr": "医者",
+        "phonetic_tr": "isha"
+      },
+      {
+        "icons": "🚓",
+        "phrase": "Police",
+        "written_tr": "警察",
+        "phonetic_tr": "keisatsu"
+      },
+      {
+        "icons": "🚒",
+        "phrase": "Ambulance",
+        "written_tr": "救急車",
+        "phonetic_tr": "kyūkyūsha"
+      },
+      {
+        "icons": "🆘",
+        "phrase": "Help! - Call for help",
+        "written_tr": "助けて！",
+        "phonetic_tr": "tasukete!"
+      }
+    ]
+  },
+  {
+    "category": "Directions",
+    "color": "D3DCE8",
+    "data": [
+      {
+        "icons": "❓",
+        "phrase": "Where is ...?",
+        "written_tr": "…はどこですか？",
+        "phonetic_tr": "... wa doko desu ka?"
+      },
+      {
+        "icons": "🔄",
+        "phrase": "Turn",
+        "written_tr": "曲がる",
+        "phonetic_tr": "magaru"
+      },
+      {
+        "icons": "⬅️",
+        "phrase": "Left",
+        "written_tr": "左",
+        "phonetic_tr": "hidari"
+      },
+      {
+        "icons": "➡️",
+        "phrase": "Right",
+        "written_tr": "右",
+        "phonetic_tr": "migi"
+      },
+      {
+        "icons": "⬆️",
+        "phrase": "Straight ahead",
+        "written_tr": "まっすぐ",
+        "phonetic_tr": "massugu"
+      },
+      {
+        "icons": "🔍",
+        "phrase": "Near",
+        "written_tr": "近く",
+        "phonetic_tr": "chikaku"
+      },
+      {
+        "icons": "🌌",
+        "phrase": "Far",
+        "written_tr": "遠い",
+        "phonetic_tr": "tōi"
+      },
+      {
+        "icons": "➡️⬅️",
+        "phrase": "Next to/Beside",
+        "written_tr": "隣",
+        "phonetic_tr": "tonari"
+      },
+      {
+        "icons": "👁️",
+        "phrase": "In front of",
+        "written_tr": "前",
+        "phonetic_tr": "mae"
+      },
+      {
+        "icons": "🔜",
+        "phrase": "You'll see it ahead",
+        "written_tr": "その先に見えます",
+        "phonetic_tr": "sono saki ni miemasu"
+      },
+      {
+        "icons": "🚶‍♂️",
+        "phrase": "Cross the street",
+        "written_tr": "道を渡る",
+        "phonetic_tr": "michi o wataru"
+      },
+      {
+        "icons": "🔄",
+        "phrase": "Follow the signs",
+        "written_tr": "標識に従う",
+        "phonetic_tr": "hyōshiki ni shitagau"
+      },
+      {
+        "icons": "1️⃣2️⃣3️⃣",
+        "phrase": "Take the first/second/third (left/right)",
+        "written_tr": "最初／二番目／三番目の（左／右）を曲がる",
+        "phonetic_tr": "saisho / nibanme / sanbanme no (hidari / migi) o magaru"
+      },
+      {
+        "icons": "⬆️",
+        "phrase": "Above",
+        "written_tr": "上",
+        "phonetic_tr": "ue"
+      },
+      {
+        "icons": "⬇️",
+        "phrase": "Below",
+        "written_tr": "下",
+        "phonetic_tr": "shita"
+      },
+      {
+        "icons": "⬆️",
+        "phrase": "Up",
+        "written_tr": "上に",
+        "phonetic_tr": "ue ni"
+      },
+      {
+        "icons": "⬇️",
+        "phrase": "Down",
+        "written_tr": "下に",
+        "phonetic_tr": "shita ni"
+      },
+      {
+        "icons": "🚪",
+        "phrase": "Exit",
+        "written_tr": "出口",
+        "phonetic_tr": "deguchi"
+      },
+      {
+        "icons": "🚪",
+        "phrase": "Entrance",
+        "written_tr": "入口",
+        "phonetic_tr": "iriguchi"
+      },
+      {
+        "icons": "🔀",
+        "phrase": "Intersection/Crossroad",
+        "written_tr": "交差点",
+        "phonetic_tr": "kōsaten"
+      },
+      {
+        "icons": "🔳",
+        "phrase": "Corner",
+        "written_tr": "角",
+        "phonetic_tr": "kado"
+      },
+      {
+        "icons": "🚦",
+        "phrase": "Traffic light",
+        "written_tr": "信号",
+        "phonetic_tr": "shingō"
+      },
+      {
+        "icons": "🏙️",
+        "phrase": "Street",
+        "written_tr": "通り",
+        "phonetic_tr": "tōri"
+      },
+      {
+        "icons": "🛣️",
+        "phrase": "Road",
+        "written_tr": "道",
+        "phonetic_tr": "michi"
+      },
+      {
+        "icons": "🔄",
+        "phrase": "Roundabout",
+        "written_tr": "ラウンドアバウト",
+        "phonetic_tr": "raundoabauto"
+      },
+      {
+        "icons": "🏛️",
+        "phrase": "Plaza",
+        "written_tr": "広場",
+        "phonetic_tr": "hiroba"
+      },
+      {
+        "icons": "🧭",
+        "phrase": "North",
+        "written_tr": "北",
+        "phonetic_tr": "kita"
+      },
+      {
+        "icons": "🧭",
+        "phrase": "South",
+        "written_tr": "南",
+        "phonetic_tr": "minami"
+      },
+      {
+        "icons": "🧭",
+        "phrase": "East",
+        "written_tr": "東",
+        "phonetic_tr": "higashi"
+      },
+      {
+        "icons": "🧭",
+        "phrase": "West",
+        "written_tr": "西",
+        "phonetic_tr": "nishi"
+      },
+      {
+        "icons": "➡️",
+        "phrase": "Go past...",
+        "written_tr": "通り過ぎる",
+        "phonetic_tr": "tōrisugiru"
+      }
+    ]
+  }
+]

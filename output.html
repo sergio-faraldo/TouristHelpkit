@@ -1,0 +1,1263 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Translated Data</title>
+    <script>
+        function toggleSections(articleId) {
+          const dataDiv = document.getElementById(articleId);
+          const button = document.getElementById(articleId+"_arrow");
+    
+          if (dataDiv.style.display === "none" || dataDiv.style.display === "") {
+            dataDiv.style.display = "flex";  // Show the section
+            button.textContent = "▲";        // Change to up arrow
+          } else {
+            dataDiv.style.display = "none";  // Hide the section
+            button.textContent = "▼";        // Change to down arrow
+          }
+        }
+    </script>
+    <style>
+        /* Style for articles */
+        section {
+            display: flex;
+            flex-direction: column;
+            border-radius: 15px; /* Rounded corners */
+        }
+        
+        /* Style for the data div */
+        .data {
+            display: none; /* Enables flexbox layout for sections */
+            flex-wrap: wrap; /* Allows sections to wrap into new lines */
+            justify-content: center; /* Centers the sections in the data div */
+        }
+        
+        .spoiler{
+            color: #333; 
+            font-size: 24px; 
+            display: inline-block; 
+            float: right; 
+            margin: 15px;
+        }
+        
+        /* Style for sections */
+        article {
+            display: flex; /* Enables flexbox layout */
+            flex-direction: column; /* Stacks items vertically */
+            background-color: rgba(255, 255, 255, 0.5); /* White background with 50% opacity */
+            padding: 10px; /* Padding inside each section */
+            margin: 10px; /* Space around sections */
+            border-radius: 10px; /* Rounded corners for sections */
+            width: 150px; /* Fixed width for each section */
+        }
+        
+        /* Style for h2 headers */
+        h2 {
+            margin: 15px; /* Add some margin around the h2 */
+            width: fit-content;
+        }
+        
+        /* Style for h3 headers */
+        h3 {
+            margin: 0; /* Remove default margins */
+            text-align: center; /* Center the text */
+            font-size: 1.5em; /* Increase the font size */
+        }        
+        button {
+            background: none; 
+            border: none; 
+            cursor: pointer; 
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .icon{
+            margin-top: -0.25em;
+            align-self: center;
+            font-size: 2em;
+        }
+        .phrase{
+            font-size: 1.2em;
+            border-bottom-style: groove;
+            width: inherit;
+            border-bottom-color: rgba(0,0,0,0.2);
+            border-bottom-width: 2px;
+            padding-bottom: 4px;
+        }
+        p {
+            margin: 0.25em 0; /* Add space between paragraphs */
+            align-self: center;
+            text-align: center;
+            font-family: sans-serif;
+        }
+    </style>
+    </head>
+    <body>
+    <section style="background-color: #E0D4E7; padding: 15px; margin-bottom: 20px;">
+<button onclick="toggleSections('Basics')">
+<h2>Basics</h2>
+<div id="Basics_arrow" class="spoiler">▼</div>
+</button>
+<div id="Basics" class="data">
+<article>
+<p class="icon">👋▶️</p>
+<p class="phrase">Hello</p>
+<p class="written_tr">こんにちは</p>
+<p class="phonetic_tr">Kon'nichiwa</p>
+</article>
+<article>
+<p class="icon">👋⏹️</p>
+<p class="phrase">Goodbye</p>
+<p class="written_tr">まったね</p>
+<p class="phonetic_tr">mattane</p>
+</article>
+<article>
+<p class="icon">🙏</p>
+<p class="phrase">Please</p>
+<p class="written_tr">お願いします</p>
+<p class="phonetic_tr">Onegaishimasu</p>
+</article>
+<article>
+<p class="icon">🙏</p>
+<p class="phrase">Please give me</p>
+<p class="written_tr">ください</p>
+<p class="phonetic_tr">kudasai</p>
+</article>
+<article>
+<p class="icon">🙏🙌</p>
+<p class="phrase">Thank you</p>
+<p class="written_tr">ありがとうございます</p>
+<p class="phonetic_tr">Arigatō gozaimasu</p>
+</article>
+<article>
+<p class="icon">😅🙏</p>
+<p class="phrase">Excuse me</p>
+<p class="written_tr">すみません</p>
+<p class="phonetic_tr">Sumimasen</p>
+</article>
+<article>
+<p class="icon">😔🙏</p>
+<p class="phrase">Sorry</p>
+<p class="written_tr">ごめんなさい</p>
+<p class="phonetic_tr">Gomen nasai</p>
+</article>
+<article>
+<p class="icon">👍👎</p>
+<p class="phrase">Yes / No</p>
+<p class="written_tr">はい / いいえ</p>
+<p class="phonetic_tr">Hai / Iie</p>
+</article>
+<article>
+<p class="icon">👍👎</p>
+<p class="phrase">Good / Bad</p>
+<p class="written_tr">良い / 悪い</p>
+<p class="phonetic_tr">Yoi / Warui</p>
+</article>
+<article>
+<p class="icon">🚫🇯🇵</p>
+<p class="phrase">I don't understand japanese</p>
+<p class="written_tr">にほんご が わかりません</p>
+<p class="phonetic_tr">Nihongo ga wakarimasen</p>
+</article>
+<article>
+<p class="icon">🤷‍♂️🧠</p>
+<p class="phrase">I don’t understand</p>
+<p class="written_tr">わかりません</p>
+<p class="phonetic_tr">Wakarimasen</p>
+</article>
+<article>
+<p class="icon">🗣️🇬🇧</p>
+<p class="phrase">Do you speak English?</p>
+<p class="written_tr">英語を話せますか？</p>
+<p class="phonetic_tr">Eigo o hanasemasu ka?</p>
+</article>
+<article>
+<p class="icon">❓</p>
+<p class="phrase">What</p>
+<p class="written_tr">何</p>
+<p class="phonetic_tr">Nani</p>
+</article>
+<article>
+<p class="icon">📍</p>
+<p class="phrase">Where</p>
+<p class="written_tr">どこ</p>
+<p class="phonetic_tr">Doko</p>
+</article>
+<article>
+<p class="icon">⏰</p>
+<p class="phrase">When</p>
+<p class="written_tr">いつ</p>
+<p class="phonetic_tr">Itsu</p>
+</article>
+<article>
+<p class="icon">🙋‍♂️</p>
+<p class="phrase">Who</p>
+<p class="written_tr">誰</p>
+<p class="phonetic_tr">Dare</p>
+</article>
+<article>
+<p class="icon">❓🤔</p>
+<p class="phrase">Why</p>
+<p class="written_tr">なぜ</p>
+<p class="phonetic_tr">Naze</p>
+</article>
+<article>
+<p class="icon">❓🤷‍♀️</p>
+<p class="phrase">How</p>
+<p class="written_tr">どうやって</p>
+<p class="phonetic_tr">Dō yatte</p>
+</article>
+<article>
+<p class="icon">❓👉</p>
+<p class="phrase">Which</p>
+<p class="written_tr">どれ</p>
+<p class="phonetic_tr">Dore</p>
+</article>
+<article>
+<p class="icon">✍️📝</p>
+<p class="phrase">Can you write it down</p>
+<p class="written_tr">それを書いてもらえますか？</p>
+<p class="phonetic_tr">sore wo kaite moraemasuka?</p>
+</article>
+</div>
+</section>
+</body>
+</html>
+<section style="background-color: #FAE7EB; padding: 15px; margin-bottom: 20px;">
+<button onclick="toggleSections('Basic_Verbs')">
+<h2>Basic Verbs</h2>
+<div id="Basic_Verbs_arrow" class="spoiler">▼</div>
+</button>
+<div id="Basic_Verbs" class="data">
+<article>
+<p class="icon">🚶</p>
+<p class="phrase">To go</p>
+<p class="written_tr">行きます</p>
+<p class="phonetic_tr">Ikimasu</p>
+</article>
+<article>
+<p class="icon">🚶</p>
+<p class="phrase">To come</p>
+<p class="written_tr">来ます</p>
+<p class="phonetic_tr">Kimasu</p>
+</article>
+<article>
+<p class="icon">🍽️</p>
+<p class="phrase">To eat</p>
+<p class="written_tr">食べます</p>
+<p class="phonetic_tr">Tabemasu</p>
+</article>
+<article>
+<p class="icon">🥤</p>
+<p class="phrase">To drink</p>
+<p class="written_tr">飲みます</p>
+<p class="phonetic_tr">Nomimasu</p>
+</article>
+<article>
+<p class="icon">🛒</p>
+<p class="phrase">To buy</p>
+<p class="written_tr">買います</p>
+<p class="phonetic_tr">Kaimasu</p>
+</article>
+<article>
+<p class="icon">💳</p>
+<p class="phrase">To pay</p>
+<p class="written_tr">払います</p>
+<p class="phonetic_tr">Haraimasu</p>
+</article>
+<article>
+<p class="icon">📅</p>
+<p class="phrase">To reserve/to book</p>
+<p class="written_tr">予約します</p>
+<p class="phonetic_tr">Yoyaku shimasu</p>
+</article>
+<article>
+<p class="icon">❗</p>
+<p class="phrase">To need</p>
+<p class="written_tr">必要とします</p>
+<p class="phonetic_tr">Hitsuyō to shimasu</p>
+</article>
+<article>
+<p class="icon">💭</p>
+<p class="phrase">To want</p>
+<p class="written_tr">欲しいです</p>
+<p class="phonetic_tr">Hoshii desu</p>
+</article>
+<article>
+<p class="icon">⏳</p>
+<p class="phrase">To wait</p>
+<p class="written_tr">待ちます</p>
+<p class="phonetic_tr">Machimasu</p>
+</article>
+<article>
+<p class="icon">📤</p>
+<p class="phrase">To leave</p>
+<p class="written_tr">出ます</p>
+<p class="phonetic_tr">Demasu</p>
+</article>
+<article>
+<p class="icon">📥</p>
+<p class="phrase">To arrive</p>
+<p class="written_tr">着きます</p>
+<p class="phonetic_tr">Tsukimasu</p>
+</article>
+<article>
+<p class="icon">🛌</p>
+<p class="phrase">To sleep</p>
+<p class="written_tr">寝ます</p>
+<p class="phonetic_tr">Nemasu</p>
+</article>
+</div>
+</section>
+</body>
+</html>
+<section style="background-color: #DBEEF7; padding: 15px; margin-bottom: 20px;">
+<button onclick="toggleSections('Shopping')">
+<h2>Shopping</h2>
+<div id="Shopping_arrow" class="spoiler">▼</div>
+</button>
+<div id="Shopping" class="data">
+<article>
+<p class="icon">💳❓</p>
+<p class="phrase">Do you take cards?</p>
+<p class="written_tr">カードは使えますか？</p>
+<p class="phonetic_tr">Kādo wa tsukaemasu ka?</p>
+</article>
+<article>
+<p class="icon">💵</p>
+<p class="phrase">Cash only</p>
+<p class="written_tr">現金のみ</p>
+<p class="phonetic_tr">Genkin nomi</p>
+</article>
+<article>
+<p class="icon">🛍️</p>
+<p class="phrase">Grocery bag</p>
+<p class="written_tr">買い物袋</p>
+<p class="phonetic_tr">Kaimono bukuro</p>
+</article>
+<article>
+<p class="icon">💰🔄</p>
+<p class="phrase">Change</p>
+<p class="written_tr">お釣り</p>
+<p class="phonetic_tr">Otsuri</p>
+</article>
+<article>
+<p class="icon">💲❓</p>
+<p class="phrase">How much?</p>
+<p class="written_tr">いくらですか？</p>
+<p class="phonetic_tr">Ikura desu ka?</p>
+</article>
+<article>
+<p class="icon">🔝📈</p>
+<p class="phrase">Too much/many</p>
+<p class="written_tr">多すぎます</p>
+<p class="phonetic_tr">Ōsugimasu</p>
+</article>
+<article>
+<p class="icon">🔻📉</p>
+<p class="phrase">Too little/few</p>
+<p class="written_tr">少なすぎます</p>
+<p class="phonetic_tr">Sukunasugimasu</p>
+</article>
+<article>
+<p class="icon">💸🔴</p>
+<p class="phrase">Too expensive</p>
+<p class="written_tr">高すぎます</p>
+<p class="phonetic_tr">Takasugimasu</p>
+</article>
+<article>
+<p class="icon">💰✅</p>
+<p class="phrase">Cheap/Affordable</p>
+<p class="written_tr">安い</p>
+<p class="phonetic_tr">Yasui</p>
+</article>
+</div>
+</section>
+</body>
+</html>
+<section style="background-color: #BDD2E4; padding: 15px; margin-bottom: 20px;">
+<button onclick="toggleSections('At_a_Restaurant')">
+<h2>At a Restaurant</h2>
+<div id="At_a_Restaurant_arrow" class="spoiler">▼</div>
+</button>
+<div id="At_a_Restaurant" class="data">
+<article>
+<p class="icon">📜🍽️</p>
+<p class="phrase">Menu</p>
+<p class="written_tr">メニュー</p>
+<p class="phonetic_tr">Menyū</p>
+</article>
+<article>
+<p class="icon">💧🥤</p>
+<p class="phrase">Water</p>
+<p class="written_tr">水</p>
+<p class="phonetic_tr">Mizu</p>
+</article>
+<article>
+<p class="icon">🍷</p>
+<p class="phrase">Wine</p>
+<p class="written_tr">ワイン</p>
+<p class="phonetic_tr">Wain</p>
+</article>
+<article>
+<p class="icon">🍺</p>
+<p class="phrase">Beer</p>
+<p class="written_tr">ビール</p>
+<p class="phonetic_tr">Bīru</p>
+</article>
+<article>
+<p class="icon">🍳🥞</p>
+<p class="phrase">Breakfast</p>
+<p class="written_tr">朝食</p>
+<p class="phonetic_tr">Chōshoku</p>
+</article>
+<article>
+<p class="icon">🥪🍴</p>
+<p class="phrase">Lunch</p>
+<p class="written_tr">昼食</p>
+<p class="phonetic_tr">Chūshoku</p>
+</article>
+<article>
+<p class="icon">🍽️🌙</p>
+<p class="phrase">Dinner</p>
+<p class="written_tr">夕食</p>
+<p class="phonetic_tr">Yūshoku</p>
+</article>
+<article>
+<p class="icon">🍤🍽️</p>
+<p class="phrase">Appetizer</p>
+<p class="written_tr">前菜</p>
+<p class="phonetic_tr">Zensai</p>
+</article>
+<article>
+<p class="icon">🥩🍽️</p>
+<p class="phrase">Main Course</p>
+<p class="written_tr">メインコース</p>
+<p class="phonetic_tr">Mein kōsu</p>
+</article>
+<article>
+<p class="icon">🍰🍽️</p>
+<p class="phrase">Dessert</p>
+<p class="written_tr">デザート</p>
+<p class="phonetic_tr">Dezāto</p>
+</article>
+<article>
+<p class="icon">🍽️🪑</p>
+<p class="phrase">Table</p>
+<p class="written_tr">テーブル</p>
+<p class="phonetic_tr">Tēburu</p>
+</article>
+<article>
+<p class="icon">🍴</p>
+<p class="phrase">Fork</p>
+<p class="written_tr">フォーク</p>
+<p class="phonetic_tr">Fōku</p>
+</article>
+<article>
+<p class="icon">🔪</p>
+<p class="phrase">Knife</p>
+<p class="written_tr">ナイフ</p>
+<p class="phonetic_tr">Naifu</p>
+</article>
+<article>
+<p class="icon">🥄</p>
+<p class="phrase">Spoon</p>
+<p class="written_tr">スプーン</p>
+<p class="phonetic_tr">Supūn</p>
+</article>
+<article>
+<p class="icon">🍽️</p>
+<p class="phrase">Plate</p>
+<p class="written_tr">皿</p>
+<p class="phonetic_tr">Sara</p>
+</article>
+<article>
+<p class="icon">🥣</p>
+<p class="phrase">Bowl</p>
+<p class="written_tr">ボウル</p>
+<p class="phonetic_tr">Bōru</p>
+</article>
+<article>
+<p class="icon">🍷🥃</p>
+<p class="phrase">Glass</p>
+<p class="written_tr">グラス</p>
+<p class="phonetic_tr">Gurasu</p>
+</article>
+<article>
+<p class="icon">💵🧾</p>
+<p class="phrase">Bill – To ask for payment</p>
+<p class="written_tr">お会計お願いします</p>
+<p class="phonetic_tr">Okaikei onegaishimasu</p>
+</article>
+<article>
+<p class="icon">🌶️🔥</p>
+<p class="phrase">Spicy</p>
+<p class="written_tr">辛い</p>
+<p class="phonetic_tr">Karai</p>
+</article>
+<article>
+<p class="icon">🧂</p>
+<p class="phrase">Salty</p>
+<p class="written_tr">塩辛い</p>
+<p class="phonetic_tr">Shiokarai</p>
+</article>
+</div>
+</section>
+</body>
+</html>
+<section style="background-color: #EECEDA; padding: 15px; margin-bottom: 20px;">
+<button onclick="toggleSections('At_a_Grocery_Store_or_Market')">
+<h2>At a Grocery Store or Market</h2>
+<div id="At_a_Grocery_Store_or_Market_arrow" class="spoiler">▼</div>
+</button>
+<div id="At_a_Grocery_Store_or_Market" class="data">
+<article>
+<p class="icon">🛍️</p>
+<p class="phrase">Grocery bag</p>
+<p class="written_tr">買い物袋</p>
+<p class="phonetic_tr">Kaimono bukuro</p>
+</article>
+<article>
+<p class="icon">🥦🍅</p>
+<p class="phrase">Vegetables</p>
+<p class="written_tr">野菜</p>
+<p class="phonetic_tr">Yasai</p>
+</article>
+<article>
+<p class="icon">🍎🍇</p>
+<p class="phrase">Fruit</p>
+<p class="written_tr">果物</p>
+<p class="phonetic_tr">Kudamono</p>
+</article>
+<article>
+<p class="icon">🍖🥩</p>
+<p class="phrase">Meat</p>
+<p class="written_tr">肉</p>
+<p class="phonetic_tr">Niku</p>
+</article>
+<article>
+<p class="icon">🐔</p>
+<p class="phrase">Poultry</p>
+<p class="written_tr">鶏肉</p>
+<p class="phonetic_tr">Toriniku</p>
+</article>
+<article>
+<p class="icon">🐖</p>
+<p class="phrase">Pork</p>
+<p class="written_tr">豚肉</p>
+<p class="phonetic_tr">Butaniku</p>
+</article>
+<article>
+<p class="icon">🐄</p>
+<p class="phrase">Beef</p>
+<p class="written_tr">牛肉</p>
+<p class="phonetic_tr">Gyūniku</p>
+</article>
+<article>
+<p class="icon">🦆</p>
+<p class="phrase">Duck</p>
+<p class="written_tr">鴨肉</p>
+<p class="phonetic_tr">Kamoniku</p>
+</article>
+<article>
+<p class="icon">🐙</p>
+<p class="phrase">Octopus</p>
+<p class="written_tr">タコ</p>
+<p class="phonetic_tr">Tako</p>
+</article>
+<article>
+<p class="icon">🦑</p>
+<p class="phrase">Squid</p>
+<p class="written_tr">イカ</p>
+<p class="phonetic_tr">Ika</p>
+</article>
+<article>
+<p class="icon">🐍</p>
+<p class="phrase">Eel</p>
+<p class="written_tr">うなぎ</p>
+<p class="phonetic_tr">Unagi</p>
+</article>
+<article>
+<p class="icon">🐟</p>
+<p class="phrase">Fish</p>
+<p class="written_tr">魚</p>
+<p class="phonetic_tr">Sakana</p>
+</article>
+<article>
+<p class="icon">🧼🧴</p>
+<p class="phrase">Cleaning products</p>
+<p class="written_tr">掃除用品</p>
+<p class="phonetic_tr">Sōji yōhin</p>
+</article>
+</div>
+</section>
+</body>
+</html>
+<section style="background-color: #CCDCEB; padding: 15px; margin-bottom: 20px;">
+<button onclick="toggleSections('At_a_Hotel')">
+<h2>At a Hotel</h2>
+<div id="At_a_Hotel_arrow" class="spoiler">▼</div>
+</button>
+<div id="At_a_Hotel" class="data">
+<article>
+<p class="icon">📅🏨</p>
+<p class="phrase">Reservation/Booking</p>
+<p class="written_tr">予約</p>
+<p class="phonetic_tr">Yoyaku</p>
+</article>
+<article>
+<p class="icon">💵🎫</p>
+<p class="phrase">Tourist fees</p>
+<p class="written_tr">観光料金</p>
+<p class="phonetic_tr">Kankō ryōkin</p>
+</article>
+<article>
+<p class="icon">💻💳</p>
+<p class="phrase">Paid online</p>
+<p class="written_tr">オンラインで支払い済み</p>
+<p class="phonetic_tr">Onrain de shiharai-zumi</p>
+</article>
+<article>
+<p class="icon">🛏️</p>
+<p class="phrase">Room</p>
+<p class="written_tr">部屋</p>
+<p class="phonetic_tr">Heya</p>
+</article>
+<article>
+<p class="icon">🛏️1️⃣</p>
+<p class="phrase">Single room</p>
+<p class="written_tr">シングルルーム</p>
+<p class="phonetic_tr">Shinguru rūmu</p>
+</article>
+<article>
+<p class="icon">🛏️2️⃣</p>
+<p class="phrase">Double room</p>
+<p class="written_tr">ダブルルーム</p>
+<p class="phonetic_tr">Daburu rūmu</p>
+</article>
+<article>
+<p class="icon">🛏️🛏️</p>
+<p class="phrase">Twin room</p>
+<p class="written_tr">ツインルーム</p>
+<p class="phonetic_tr">Tsuin rūmu</p>
+</article>
+<article>
+<p class="icon">🛎️</p>
+<p class="phrase">Check-in</p>
+<p class="written_tr">チェックイン</p>
+<p class="phonetic_tr">Chekku-in</p>
+</article>
+<article>
+<p class="icon">🛎️🚪</p>
+<p class="phrase">Check-out</p>
+<p class="written_tr">チェックアウト</p>
+<p class="phonetic_tr">Chekku-auto</p>
+</article>
+<article>
+<p class="icon">🔑💳</p>
+<p class="phrase">Key/Key card</p>
+<p class="written_tr">鍵/カードキー</p>
+<p class="phonetic_tr">Kagi/Kādo kī</p>
+</article>
+<article>
+<p class="icon">🚻</p>
+<p class="phrase">Bathroom</p>
+<p class="written_tr">バスルーム</p>
+<p class="phonetic_tr">Basurūmu</p>
+</article>
+<article>
+<p class="icon">🚿</p>
+<p class="phrase">Shower</p>
+<p class="written_tr">シャワー</p>
+<p class="phonetic_tr">Shawā</p>
+</article>
+<article>
+<p class="icon">🧴🧻</p>
+<p class="phrase">Towels</p>
+<p class="written_tr">タオル</p>
+<p class="phonetic_tr">Tauru</p>
+</article>
+<article>
+<p class="icon">🛗</p>
+<p class="phrase">Elevator</p>
+<p class="written_tr">エレベーター</p>
+<p class="phonetic_tr">Erebētā</p>
+</article>
+<article>
+<p class="icon">🪜</p>
+<p class="phrase">Stairs</p>
+<p class="written_tr">階段</p>
+<p class="phonetic_tr">Kaidan</p>
+</article>
+<article>
+<p class="icon">📶💻</p>
+<p class="phrase">Wi-Fi/Internet</p>
+<p class="written_tr">Wi-Fi/インターネット</p>
+<p class="phonetic_tr">Wi-Fi/Intānetto</p>
+</article>
+<article>
+<p class="icon">🛎️🏨</p>
+<p class="phrase">Reception</p>
+<p class="written_tr">フロント</p>
+<p class="phonetic_tr">Furonto</p>
+</article>
+<article>
+<p class="icon">🛎️🛏️</p>
+<p class="phrase">Room service</p>
+<p class="written_tr">ルームサービス</p>
+<p class="phonetic_tr">Rūmu sābisu</p>
+</article>
+<article>
+<p class="icon">🧴🧻</p>
+<p class="phrase">Towel</p>
+<p class="written_tr">タオル</p>
+<p class="phonetic_tr">Tauru</p>
+</article>
+<article>
+<p class="icon">🛏️🛋️</p>
+<p class="phrase">Pillow</p>
+<p class="written_tr">枕</p>
+<p class="phonetic_tr">Makura</p>
+</article>
+<article>
+<p class="icon">🛏️🧥</p>
+<p class="phrase">Blanket</p>
+<p class="written_tr">毛布</p>
+<p class="phonetic_tr">Mōfu</p>
+</article>
+<article>
+<p class="icon">🍽️☕</p>
+<p class="phrase">Breakfast included?</p>
+<p class="written_tr">朝食は含まれていますか？</p>
+<p class="phonetic_tr">Chōshoku wa fukumareteimasu ka?</p>
+</article>
+<article>
+<p class="icon">🧳</p>
+<p class="phrase">Luggage</p>
+<p class="written_tr">荷物</p>
+<p class="phonetic_tr">Nimotsu</p>
+</article>
+<article>
+<p class="icon">🧳🎒</p>
+<p class="phrase">Suitcase</p>
+<p class="written_tr">スーツケース</p>
+<p class="phonetic_tr">Sūtsukēsu</p>
+</article>
+<article>
+<p class="icon">👜</p>
+<p class="phrase">Bag</p>
+<p class="written_tr">バッグ</p>
+<p class="phonetic_tr">Baggu</p>
+</article>
+<article>
+<p class="icon">🎒</p>
+<p class="phrase">Backpack</p>
+<p class="written_tr">リュックサック</p>
+<p class="phonetic_tr">Ryukkusakku</p>
+</article>
+</div>
+</section>
+</body>
+</html>
+<section style="background-color: #FFDAB9; padding: 15px; margin-bottom: 20px;">
+<button onclick="toggleSections('At_Train_or_Bus_Stations')">
+<h2>At Train or Bus Stations</h2>
+<div id="At_Train_or_Bus_Stations_arrow" class="spoiler">▼</div>
+</button>
+<div id="At_Train_or_Bus_Stations" class="data">
+<article>
+<p class="icon">🎟️🚌🚆</p>
+<p class="phrase">Ticket (bus or train)</p>
+<p class="written_tr">切符</p>
+<p class="phonetic_tr">Kippu</p>
+</article>
+<article>
+<p class="icon">🛤️</p>
+<p class="phrase">Platform / Track</p>
+<p class="written_tr">ホーム/線路</p>
+<p class="phonetic_tr">Hōmu/Senro</p>
+</article>
+<article>
+<p class="icon">🏃‍♂️🕒</p>
+<p class="phrase">Departure</p>
+<p class="written_tr">出発</p>
+<p class="phonetic_tr">Shuppatsu</p>
+</article>
+<article>
+<p class="icon">🏁🕒</p>
+<p class="phrase">Arrival</p>
+<p class="written_tr">到着</p>
+<p class="phonetic_tr">Tōchaku</p>
+</article>
+<article>
+<p class="icon">📅🕒</p>
+<p class="phrase">Schedule</p>
+<p class="written_tr">時間表</p>
+<p class="phonetic_tr">Jikanhyō</p>
+</article>
+<article>
+<p class="icon">➡️🎟️</p>
+<p class="phrase">One-way ticket</p>
+<p class="written_tr">片道切符</p>
+<p class="phonetic_tr">Katamichi kippu</p>
+</article>
+<article>
+<p class="icon">🔄🎟️</p>
+<p class="phrase">Both-way ticket</p>
+<p class="written_tr">往復切符</p>
+<p class="phonetic_tr">Ōfuku kippu</p>
+</article>
+<article>
+<p class="icon">🔙🎟️</p>
+<p class="phrase">Return ticket</p>
+<p class="written_tr">復路切符</p>
+<p class="phonetic_tr">Fukuro kippu</p>
+</article>
+<article>
+<p class="icon">🚌</p>
+<p class="phrase">Bus</p>
+<p class="written_tr">バス</p>
+<p class="phonetic_tr">Basu</p>
+</article>
+<article>
+<p class="icon">🚆</p>
+<p class="phrase">Train</p>
+<p class="written_tr">電車</p>
+<p class="phonetic_tr">Densha</p>
+</article>
+<article>
+<p class="icon">💺</p>
+<p class="phrase">Seat</p>
+<p class="written_tr">席</p>
+<p class="phonetic_tr">Seki</p>
+</article>
+<article>
+<p class="icon">🚃</p>
+<p class="phrase">Train car</p>
+<p class="written_tr">車両</p>
+<p class="phonetic_tr">Sharyō</p>
+</article>
+<article>
+<p class="icon">⏳❌</p>
+<p class="phrase">Delay</p>
+<p class="written_tr">遅れ</p>
+<p class="phonetic_tr">Okure</p>
+</article>
+<article>
+<p class="icon">🕒✅</p>
+<p class="phrase">On time</p>
+<p class="written_tr">定刻通り</p>
+<p class="phonetic_tr">Teikoku dōri</p>
+</article>
+<article>
+<p class="icon">🚫</p>
+<p class="phrase">Cancelled</p>
+<p class="written_tr">キャンセルされました</p>
+<p class="phonetic_tr">Kyanseru saremashita</p>
+</article>
+<article>
+<p class="icon">⏱️❓</p>
+<p class="phrase">How long does it take?</p>
+<p class="written_tr">どのくらいかかりますか？</p>
+<p class="phonetic_tr">Dono kurai kakarimasu ka?</p>
+</article>
+</div>
+</section>
+</body>
+</html>
+<section style="background-color: #E1F6F2; padding: 15px; margin-bottom: 20px;">
+<button onclick="toggleSections('At_the_Airport')">
+<h2>At the Airport</h2>
+<div id="At_the_Airport_arrow" class="spoiler">▼</div>
+</button>
+<div id="At_the_Airport" class="data">
+<article>
+<p class="icon">✈️</p>
+<p class="phrase">Flight</p>
+<p class="written_tr">フライト</p>
+<p class="phonetic_tr">furaito</p>
+</article>
+<article>
+<p class="icon">🎟️✈️</p>
+<p class="phrase">Boarding pass</p>
+<p class="written_tr">搭乗券</p>
+<p class="phonetic_tr">tōjōken</p>
+</article>
+<article>
+<p class="icon">🚪✈️</p>
+<p class="phrase">Gate</p>
+<p class="written_tr">ゲート</p>
+<p class="phonetic_tr">gēto</p>
+</article>
+<article>
+<p class="icon">🛂🔍</p>
+<p class="phrase">Security check</p>
+<p class="written_tr">保安検査</p>
+<p class="phonetic_tr">hoan kensa</p>
+</article>
+<article>
+<p class="icon">👜✈️</p>
+<p class="phrase">Carry-on luggage</p>
+<p class="written_tr">機内持ち込み手荷物</p>
+<p class="phonetic_tr">kinai mochikomi tenimotsu</p>
+</article>
+<article>
+<p class="icon">🧳✈️</p>
+<p class="phrase">Checked luggage</p>
+<p class="written_tr">預け入れ手荷物</p>
+<p class="phonetic_tr">azukeire tenimotsu</p>
+</article>
+<article>
+<p class="icon">🛂</p>
+<p class="phrase">Passport</p>
+<p class="written_tr">パスポート</p>
+<p class="phonetic_tr">pasupōto</p>
+</article>
+<article>
+<p class="icon">🛂✉️</p>
+<p class="phrase">Visa</p>
+<p class="written_tr">ビザ</p>
+<p class="phonetic_tr">biza</p>
+</article>
+<article>
+<p class="icon">🛃</p>
+<p class="phrase">Customs</p>
+<p class="written_tr">税関</p>
+<p class="phonetic_tr">zeikan</p>
+</article>
+<article>
+<p class="icon">🛂🏢</p>
+<p class="phrase">Immigration</p>
+<p class="written_tr">入国審査</p>
+<p class="phonetic_tr">nyūkoku shinsa</p>
+</article>
+<article>
+<p class="icon">🧳🔄</p>
+<p class="phrase">Baggage claim</p>
+<p class="written_tr">手荷物受取所</p>
+<p class="phonetic_tr">tenimotsu uketorijo</p>
+</article>
+<article>
+<p class="icon">🏢✈️</p>
+<p class="phrase">Terminal</p>
+<p class="written_tr">ターミナル</p>
+<p class="phonetic_tr">tāminaru</p>
+</article>
+<article>
+<p class="icon">🛍️✈️</p>
+<p class="phrase">Duty-free</p>
+<p class="written_tr">免税店</p>
+<p class="phonetic_tr">menzeiten</p>
+</article>
+<article>
+<p class="icon">✈️🔢</p>
+<p class="phrase">Flight number</p>
+<p class="written_tr">便名</p>
+<p class="phonetic_tr">binmei</p>
+</article>
+</div>
+</section>
+</body>
+</html>
+<section style="background-color: #FEC5BB; padding: 15px; margin-bottom: 20px;">
+<button onclick="toggleSections('At_an_Information_Desk')">
+<h2>At an Information Desk</h2>
+<div id="At_an_Information_Desk_arrow" class="spoiler">▼</div>
+</button>
+<div id="At_an_Information_Desk" class="data">
+<article>
+<p class="icon">🗺️</p>
+<p class="phrase">Map</p>
+<p class="written_tr">地図</p>
+<p class="phonetic_tr">chizu</p>
+</article>
+<article>
+<p class="icon">📖</p>
+<p class="phrase">Brochure</p>
+<p class="written_tr">パンフレット</p>
+<p class="phonetic_tr">panfuretto</p>
+</article>
+<article>
+<p class="icon">🎟️🗺️</p>
+<p class="phrase">Guided tour</p>
+<p class="written_tr">ガイドツアー</p>
+<p class="phonetic_tr">gaido tsuā</p>
+</article>
+<article>
+<p class="icon">⏰</p>
+<p class="phrase">Opening hours</p>
+<p class="written_tr">営業時間</p>
+<p class="phonetic_tr">eigyou jikan</p>
+</article>
+<article>
+<p class="icon">🎫</p>
+<p class="phrase">Ticket</p>
+<p class="written_tr">チケット</p>
+<p class="phonetic_tr">chiketto</p>
+</article>
+<article>
+<p class="icon">🏛️</p>
+<p class="phrase">Tourist attraction</p>
+<p class="written_tr">観光名所</p>
+<p class="phonetic_tr">kankō meisho</p>
+</article>
+<article>
+<p class="icon">🏛️</p>
+<p class="phrase">Museum</p>
+<p class="written_tr">博物館</p>
+<p class="phonetic_tr">hakubutsukan</p>
+</article>
+<article>
+<p class="icon">🏙️</p>
+<p class="phrase">City center</p>
+<p class="written_tr">市中心部</p>
+<p class="phonetic_tr">shi chūshinbu</p>
+</article>
+</div>
+</section>
+</body>
+</html>
+<section style="background-color: #F1DEEE; padding: 15px; margin-bottom: 20px;">
+<button onclick="toggleSections('Emergencies')">
+<h2>Emergencies</h2>
+<div id="Emergencies_arrow" class="spoiler">▼</div>
+</button>
+<div id="Emergencies" class="data">
+<article>
+<p class="icon">🚨</p>
+<p class="phrase">Emergency</p>
+<p class="written_tr">緊急</p>
+<p class="phonetic_tr">kinkyū</p>
+</article>
+<article>
+<p class="icon">🏥</p>
+<p class="phrase">Hospital</p>
+<p class="written_tr">病院</p>
+<p class="phonetic_tr">byōin</p>
+</article>
+<article>
+<p class="icon">🚑</p>
+<p class="phrase">Medic</p>
+<p class="written_tr">医者</p>
+<p class="phonetic_tr">isha</p>
+</article>
+<article>
+<p class="icon">🚓</p>
+<p class="phrase">Police</p>
+<p class="written_tr">警察</p>
+<p class="phonetic_tr">keisatsu</p>
+</article>
+<article>
+<p class="icon">🚒</p>
+<p class="phrase">Ambulance</p>
+<p class="written_tr">救急車</p>
+<p class="phonetic_tr">kyūkyūsha</p>
+</article>
+<article>
+<p class="icon">🆘</p>
+<p class="phrase">Help! - Call for help</p>
+<p class="written_tr">助けて！</p>
+<p class="phonetic_tr">tasukete!</p>
+</article>
+</div>
+</section>
+</body>
+</html>
+<section style="background-color: #D3DCE8; padding: 15px; margin-bottom: 20px;">
+<button onclick="toggleSections('Directions')">
+<h2>Directions</h2>
+<div id="Directions_arrow" class="spoiler">▼</div>
+</button>
+<div id="Directions" class="data">
+<article>
+<p class="icon">❓</p>
+<p class="phrase">Where is ...?</p>
+<p class="written_tr">…はどこですか？</p>
+<p class="phonetic_tr">... wa doko desu ka?</p>
+</article>
+<article>
+<p class="icon">🔄</p>
+<p class="phrase">Turn</p>
+<p class="written_tr">曲がる</p>
+<p class="phonetic_tr">magaru</p>
+</article>
+<article>
+<p class="icon">⬅️</p>
+<p class="phrase">Left</p>
+<p class="written_tr">左</p>
+<p class="phonetic_tr">hidari</p>
+</article>
+<article>
+<p class="icon">➡️</p>
+<p class="phrase">Right</p>
+<p class="written_tr">右</p>
+<p class="phonetic_tr">migi</p>
+</article>
+<article>
+<p class="icon">⬆️</p>
+<p class="phrase">Straight ahead</p>
+<p class="written_tr">まっすぐ</p>
+<p class="phonetic_tr">massugu</p>
+</article>
+<article>
+<p class="icon">🔍</p>
+<p class="phrase">Near</p>
+<p class="written_tr">近く</p>
+<p class="phonetic_tr">chikaku</p>
+</article>
+<article>
+<p class="icon">🌌</p>
+<p class="phrase">Far</p>
+<p class="written_tr">遠い</p>
+<p class="phonetic_tr">tōi</p>
+</article>
+<article>
+<p class="icon">➡️⬅️</p>
+<p class="phrase">Next to/Beside</p>
+<p class="written_tr">隣</p>
+<p class="phonetic_tr">tonari</p>
+</article>
+<article>
+<p class="icon">👁️</p>
+<p class="phrase">In front of</p>
+<p class="written_tr">前</p>
+<p class="phonetic_tr">mae</p>
+</article>
+<article>
+<p class="icon">🔜</p>
+<p class="phrase">You'll see it ahead</p>
+<p class="written_tr">その先に見えます</p>
+<p class="phonetic_tr">sono saki ni miemasu</p>
+</article>
+<article>
+<p class="icon">🚶‍♂️</p>
+<p class="phrase">Cross the street</p>
+<p class="written_tr">道を渡る</p>
+<p class="phonetic_tr">michi o wataru</p>
+</article>
+<article>
+<p class="icon">🔄</p>
+<p class="phrase">Follow the signs</p>
+<p class="written_tr">標識に従う</p>
+<p class="phonetic_tr">hyōshiki ni shitagau</p>
+</article>
+<article>
+<p class="icon">1️⃣2️⃣3️⃣</p>
+<p class="phrase">Take the first/second/third (left/right)</p>
+<p class="written_tr">最初／二番目／三番目の（左／右）を曲がる</p>
+<p class="phonetic_tr">saisho / nibanme / sanbanme no (hidari / migi) o magaru</p>
+</article>
+<article>
+<p class="icon">⬆️</p>
+<p class="phrase">Above</p>
+<p class="written_tr">上</p>
+<p class="phonetic_tr">ue</p>
+</article>
+<article>
+<p class="icon">⬇️</p>
+<p class="phrase">Below</p>
+<p class="written_tr">下</p>
+<p class="phonetic_tr">shita</p>
+</article>
+<article>
+<p class="icon">⬆️</p>
+<p class="phrase">Up</p>
+<p class="written_tr">上に</p>
+<p class="phonetic_tr">ue ni</p>
+</article>
+<article>
+<p class="icon">⬇️</p>
+<p class="phrase">Down</p>
+<p class="written_tr">下に</p>
+<p class="phonetic_tr">shita ni</p>
+</article>
+<article>
+<p class="icon">🚪</p>
+<p class="phrase">Exit</p>
+<p class="written_tr">出口</p>
+<p class="phonetic_tr">deguchi</p>
+</article>
+<article>
+<p class="icon">🚪</p>
+<p class="phrase">Entrance</p>
+<p class="written_tr">入口</p>
+<p class="phonetic_tr">iriguchi</p>
+</article>
+<article>
+<p class="icon">🔀</p>
+<p class="phrase">Intersection/Crossroad</p>
+<p class="written_tr">交差点</p>
+<p class="phonetic_tr">kōsaten</p>
+</article>
+<article>
+<p class="icon">🔳</p>
+<p class="phrase">Corner</p>
+<p class="written_tr">角</p>
+<p class="phonetic_tr">kado</p>
+</article>
+<article>
+<p class="icon">🚦</p>
+<p class="phrase">Traffic light</p>
+<p class="written_tr">信号</p>
+<p class="phonetic_tr">shingō</p>
+</article>
+<article>
+<p class="icon">🏙️</p>
+<p class="phrase">Street</p>
+<p class="written_tr">通り</p>
+<p class="phonetic_tr">tōri</p>
+</article>
+<article>
+<p class="icon">🛣️</p>
+<p class="phrase">Road</p>
+<p class="written_tr">道</p>
+<p class="phonetic_tr">michi</p>
+</article>
+<article>
+<p class="icon">🔄</p>
+<p class="phrase">Roundabout</p>
+<p class="written_tr">ラウンドアバウト</p>
+<p class="phonetic_tr">raundoabauto</p>
+</article>
+<article>
+<p class="icon">🏛️</p>
+<p class="phrase">Plaza</p>
+<p class="written_tr">広場</p>
+<p class="phonetic_tr">hiroba</p>
+</article>
+<article>
+<p class="icon">🧭</p>
+<p class="phrase">North</p>
+<p class="written_tr">北</p>
+<p class="phonetic_tr">kita</p>
+</article>
+<article>
+<p class="icon">🧭</p>
+<p class="phrase">South</p>
+<p class="written_tr">南</p>
+<p class="phonetic_tr">minami</p>
+</article>
+<article>
+<p class="icon">🧭</p>
+<p class="phrase">East</p>
+<p class="written_tr">東</p>
+<p class="phonetic_tr">higashi</p>
+</article>
+<article>
+<p class="icon">🧭</p>
+<p class="phrase">West</p>
+<p class="written_tr">西</p>
+<p class="phonetic_tr">nishi</p>
+</article>
+<article>
+<p class="icon">➡️</p>
+<p class="phrase">Go past...</p>
+<p class="written_tr">通り過ぎる</p>
+<p class="phonetic_tr">tōrisugiru</p>
+</article>
+</div>
+</section>
+</body>
+</html>
