@@ -214,10 +214,16 @@
     "color": "DBEEF7",
     "data": [
       {
+        "icons": "🚶‍➡️🏪",
+        "phrase": "Sorry for interrupting",
+        "written_tr": "失礼します",
+        "phonetic_tr": "Shitsureishimasu"
+      },
+      {
         "icons": "💳❓",
         "phrase": "Do you take cards?",
-        "written_tr": "カードは使えますか？",
-        "phonetic_tr": "Kādo wa tsukaemasu ka?"
+        "written_tr": "カード デ イー デス カ？",
+        "phonetic_tr": "kaado de ii desu ka?"
       },
       {
         "icons": "💵",
@@ -273,6 +279,30 @@
     "category": "At a Restaurant",
     "color": "BDD2E4",
     "data": [
+      {
+        "icons": "🚶‍➡️🏪",
+        "phrase": "Sorry for interrupting",
+        "written_tr": "失礼します",
+        "phonetic_tr": "Shitsureishimasu"
+      },
+      {
+        "icons": "🍽️",
+        "phrase": "I receive this meal (say before eating)",
+        "written_tr": "いただきます!",
+        "phonetic_tr": "itadakimasu!"
+      },
+      {
+        "icons": "🚶🏪",
+        "phrase": "It was a delicious meal",
+        "written_tr": "ご馳走さまでした",
+        "phonetic_tr": "gochisousama deshita"
+      },
+      {
+        "icons": "😋",
+        "phrase": "It was delicious",
+        "written_tr": "美味しかったです",
+        "phonetic_tr": "oishikatta desu"
+      },
       {
         "icons": "📜🍽️",
         "phrase": "Menu",
@@ -360,8 +390,8 @@
       {
         "icons": "🍽️",
         "phrase": "Plate",
-        "written_tr": "皿",
-        "phonetic_tr": "Sara"
+        "written_tr": "お皿",
+        "phonetic_tr": "OSara"
       },
       {
         "icons": "🥣",
